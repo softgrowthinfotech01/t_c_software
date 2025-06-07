@@ -337,6 +337,12 @@
 
                         </div>
                       </div> 
+
+                      <div class="row mt-4">
+                            <div class="col text-center">
+                              <button type="submit" class="btn btn-primary px-5">Save</button>
+                            </div>
+                         </div>
 <!-- 
                       <div class="mb-4 ms-3">
                           <label
@@ -621,11 +627,7 @@
                             </div>
                           </div> -->
 
-                         <div class="row mt-4">
-                            <div class="col text-center">
-                              <button type="submit" class="btn btn-primary px-5">Submit</button>
-                            </div>
-                         </div>
+                         
                     </form>
 
                   </div>

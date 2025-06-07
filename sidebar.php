@@ -54,6 +54,42 @@
                 </span>
                 <h4 class="text-section">Components</h4>
               </li>
+
+
+
+
+
+              
+               
+                <li class="nav-item">
+                 <a href="student_details.php">
+                        <span class="sub-item ">Student Details</span>
+                      </a>
+                
+              </li>
+              <li class="nav-item">
+                 <a href="college_details.php">
+                        <span class="sub-item">College Details</span>
+                      </a>
+                
+              </li>
+              <li class="nav-item">
+                 <a href="leaving_certificate.php">
+                        <span class="sub-item">Leaving Certificate</span>
+                      </a>
+                
+              </li>
+              <li class="nav-item">
+                 <a href="bonafide_certificate.php">
+                        <span class="sub-item">Bonafide Certificate</span>
+                      </a>
+                
+              </li>
+
+            
+
+
+
               <li class="nav-item">
                 <a data-bs-toggle="collapse" href="#base">
                   <i class="fas fa-layer-group"></i>
@@ -275,6 +311,7 @@
                   </ul>
                 </div>
               </li>
+
             </ul>
           </div>
         </div>

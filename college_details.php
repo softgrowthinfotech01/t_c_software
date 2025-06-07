@@ -314,7 +314,7 @@
 
                          <div class="row mt-4">
                             <div class="col text-center">
-                              <button type="submit" class="btn btn-primary px-5">Submit</button>
+                              <button type="submit" class="btn btn-primary px-5">Save</button>
                             </div>
                          </div>
                     </form>
